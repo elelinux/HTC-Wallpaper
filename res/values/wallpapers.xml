@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <string-array name="wallpapers" translatable="false">
+        <item>wallpaper_htc_desert</item>
+        <item>wallpaper_htc_digital_flower</item>
+        <item>wallpaper_htc_evo_3d</item>
+        <item>wallpaper_htc_evo_3d_abstract</item>
+        <item>wallpaper_htc_landscape</item>
+        <item>wallpaper_htc_nature</item>
+        <item>wallpaper_htc_one_x_clouds</item>
+        <item>wallpaper_htc_one_x_fields</item>
+        <item>wallpaper_htc_one_x_grass</item>
+        <item>wallpaper_htc_one_x_gravel_road</item>
+        <item>wallpaper_htc_one_x_lake</item>
+        <item>wallpaper_htc_one_x_mushroom</item>
+        <item>wallpaper_htc_one_x_sunflowers</item>
+        <item>wallpaper_htc_pyramid</item>
+        <item>wallpaper_htc_sensation</item>
+        <item>wallpaper_htc_sensation_ocean</item>
+        <item>wallpaper_htc_sense4</item>
+        <item>wallpaper_htc_sense5</item>
+        <item>wallpaper_htc_sense5_dark</item>
+        <item>wallpaper_htc_evo_3d_1</item>
+        <item>wallpaper_htc_sensation_1</item>
+        <item>wallpaper_htc_colorful_1</item>
+        <item>wallpaper_htc_colorful_2</item>
+        <item>wallpaper_htc_colorful_3</item>
+        <item>wallpaper_htc_colorful_4</item>
+        <item>wallpaper_htc_colorful_5</item>
+    </string-array>
+
+    <string-array name="info" translatable="false">
+        <item>HTC Desert</item>
+        <item>HTC Digital Flower</item>
+        <item>HTC EVO 3D</item>
+        <item>HTC EVO 3D_Abstract</item>
+        <item>HTC Landscape</item>
+        <item>HTC One X Clouds</item>
+        <item>HTC One X Fields</item>
+        <item>HTC One X Grass</item>
+        <item>HTC One X Gravel Road</item>
+        <item>HTC One X Lake</item>
+        <item>HTC One X Mushroom</item>
+        <item>HTC One X Sunflowers</item>
+        <item>HTc Pyramid</item>
+        <item>HTC Sensation</item>
+        <item>HTC Sensation Ocean</item>
+        <item>HTC Sense4</item>
+        <item>HTC Sense5</item>
+        <item>HTC Sense5 Dark</item>
+        <item>HTC EVO 3D 1</item>
+        <item>HTC Sensation 1</item>
+        <item>HTC Colorful 1</item>
+        <item>HTC Colorful 2</item>
+        <item>HTC Colorful 3</item>
+        <item>HTC Colorful 4</item>
+        <item>HTC Colorful 5</item>
+    </string-array>
+</resources>
